@@ -1,6 +1,8 @@
 # Hi there 👋
 # HeReFaNMi (Health-care Related Fake News Metigation)
 
+HeReFaNMI, an innovative platform dedicated to the detection and the combat of the false health information spreading in the field of public health using a large language model developed by our team. This project is funded by the NGI initiative Search (Next Generation Internet Discovery and Search), which supports the development of trusted open source search and discovery tools.
+
 
 <!--
 
