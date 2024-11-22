@@ -3,7 +3,7 @@
 
 HeReFaNMI, an innovative platform dedicated to the detection and the combat of the false health information spreading in the field of public health using a large language model developed by our team. This project is funded by the NGI initiative Search (Next Generation Internet Discovery and Search), which supports the development of trusted open source search and discovery tools.
 
-![logo](../logo.png)
+![logo](./assets//logo.png)
 
 ---
 
@@ -25,6 +25,11 @@ HeReFaNMI, an innovative platform dedicated to the detection and the combat of t
   ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black)
   
 ---
+
+# System 
+
+![System Architecture](./assets/arch.png)
+
 <!--
 
 **Here are some ideas to get you started:**
