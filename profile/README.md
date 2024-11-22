@@ -6,7 +6,7 @@ HeReFaNMI, an innovative platform dedicated to the detection and the combat of t
 ![logo](../logo.png)
 
 ---
-<center>
+
   ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
   ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
@@ -26,8 +26,6 @@ HeReFaNMI, an innovative platform dedicated to the detection and the combat of t
   ![huggingface/datasets](https://github.com/huggingface/datasets)
   ![huggingface/peft](https://github.com/huggingface/peft)
   
-</center>
-
 ---
 <!--
 
