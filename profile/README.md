@@ -22,9 +22,7 @@ HeReFaNMI, an innovative platform dedicated to the detection and the combat of t
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![PyPi](https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=1f73b7)
-  ![huggingface/transformers](https://github.com/huggingface/transformers) 
-  ![huggingface/datasets](https://github.com/huggingface/datasets)
-  ![huggingface/peft](https://github.com/huggingface/peft)
+  ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black)
   
 ---
 <!--
